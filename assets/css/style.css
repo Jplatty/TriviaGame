@@ -1,0 +1,68 @@
+body {
+
+    background-color: gold;
+
+}
+
+
+
+button {
+
+	width: 80%;
+
+	height: 40px;
+
+	margin: 0 10%;
+
+    float: left;
+
+   background:rgb(183, 19, 52);
+
+   color: gold;
+
+   border: solid black 1px;
+}
+
+
+
+button.answerchoice {
+
+	display: none;
+
+}
+
+
+
+button:hover {
+
+	background-color: rgb(255, 187, 0);
+
+	color: rgb(183, 19, 52);
+
+}
+
+
+
+.answers div {
+
+	margin: 0 auto;
+
+}
+
+
+
+img {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+
+}
+
+
+
+h1, h2, h3, .question {
+
+	text-align: center;
+
+}
